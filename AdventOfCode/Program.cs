@@ -10,7 +10,11 @@ namespace AdventOfCode
             //Day1.Part2();
 
             //var result = Day2.Part1();
-            var result = Day2.Part2();
+            //var result = Day2.Part2();
+
+            //var result = Day3.Part1();
+            var result = Day3.Part2();
+
 
             Console.WriteLine(result);
         }
