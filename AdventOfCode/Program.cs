@@ -31,8 +31,9 @@ namespace AdventOfCode
             //var result = Day8.Part2();
 
             //var result = Day9.Part1();
-            var result = Day9.Part2();
+            //var result = Day9.Part2();
 
+            var result = Day10.Part1();
 
             Console.WriteLine(result);
         }
